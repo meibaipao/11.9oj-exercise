@@ -3,7 +3,7 @@
 
 int main()
 {
-    float a;
+    float a;//ÎÒ×Ô¼º²âÊÔ
     float x;
     scanf("%f",&a);
     if(a<=110)
