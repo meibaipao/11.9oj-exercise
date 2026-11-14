@@ -3,7 +3,7 @@
 
 int main()
 {
-    float a;
+    float a;//另一个人来过了
     float x;
     scanf("%f",&a);
     if(a<=110)
